@@ -1,0 +1,19 @@
+{
+  "name": "cowork-automation",
+  "version": "1.0.0",
+  "description": "25 AI-powered automation skills for media processing, digital organization, and life admin",
+  "author": {
+    "name": "Fabian Aguilar",
+    "email": "fabianjagu@gmail.com"
+  },
+  "homepage": "https://github.com/fabianaguilar/cowork-automation",
+  "repository": "https://github.com/fabianaguilar/cowork-automation",
+  "license": "MIT",
+  "keywords": [
+    "automation",
+    "media",
+    "organization",
+    "life-admin",
+    "files"
+  ]
+}
